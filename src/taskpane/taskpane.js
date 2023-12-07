@@ -6,7 +6,7 @@ const axios = require("axios");
 const OpenAI = require("openai");
 
 const openai = new OpenAI({
-  apiKey: "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",
+  apiKey: "Add your OpenAI API key here",
   dangerouslyAllowBrowser: true,
   version: "v1",
 });
